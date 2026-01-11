@@ -1,2 +1,3 @@
 # validation-key.txt
-env file ed06dcf9fd7a138027dde2051a3161c92d27c94af42e85f0f79b4f4fd7d41e0e509da44da13a0506edb9c90f443567a7a7ae92d621d237d595640316b3d8de5e
+env file
+https://hlinktvthefuture2590.pinet.com/validation-key.text
